@@ -1,0 +1,53 @@
+.new{
+    background-color: yellowgreen;
+    height: 750px; 
+    width: 800px; 
+    margin: auto;
+    border: 2px solid darkred;
+}
+.head {
+    text-align: center;
+    color: darkgreen;
+
+}
+.data{
+    text-align: center;
+    padding: 10px;
+}
+.data1{
+    text-align: center;
+    padding: 10px;
+}
+.data2{
+    text-align: center;
+    padding: 10px;
+}
+.box{
+    text-align: center;
+    padding: 10px;
+}
+.box1{
+    text-align: center;
+    padding: 10px;
+}
+.box2{
+    text-align: center;
+    padding: 10px;
+}
+.hobby{
+    text-align: center;
+    padding: 10px;
+
+}
+.Adress{
+    text-align: center;
+    padding: 10px;
+}
+.State{
+    text-align: center;
+    padding: 10px;
+}
+.Submit{
+    text-align: center;
+    padding: 10px;
+}
